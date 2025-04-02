@@ -1,0 +1,10 @@
+<head>
+    <title>Link</title>
+
+    <!-- Open Graph Meta Tags for Facebook -->
+    <meta property="og:title" content="Kawawa yung bata">
+    <meta property="og:description" content="This is a great post about an interesting topic.">
+    <meta property="og:image" content="https://www.facebook.com/photo/?fbid=525156363803610&set=pcb.525156420470271">
+    <meta property="og:url" content="https://shopee.ph/product/457224234/12205762990?uls_trackid=52carm5m011f">
+    <meta property="og:type" content="website">
+</head>
